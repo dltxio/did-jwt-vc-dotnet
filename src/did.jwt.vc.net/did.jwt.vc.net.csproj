@@ -2,6 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>did.Models</PackageId>
+        <Version>0.0.1</Version>
+        <Authors>Idem</Authors>
+        <Company>DLTx.io</Company>
+        <PackageVersion>0.0.1</PackageVersion>
+        <Title>https://www.idem.com.au/</Title>
+        <AssemblyVersion>0.0.1</AssemblyVersion>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Newtonsoft.Json" />
+  </ItemGroup>
 </Project>
