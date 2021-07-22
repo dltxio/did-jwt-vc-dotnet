@@ -10,8 +10,4 @@
         <Title>https://www.idem.com.au/</Title>
         <AssemblyVersion>0.0.1</AssemblyVersion>
   </PropertyGroup>
-
-  <ItemGroup>
-    <None Remove="Newtonsoft.Json" />
-  </ItemGroup>
 </Project>
