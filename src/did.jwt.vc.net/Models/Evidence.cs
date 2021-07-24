@@ -1,3 +1,5 @@
+using System;
+
 namespace did.jwt.vc.net.Models
 {
     public class Evidence

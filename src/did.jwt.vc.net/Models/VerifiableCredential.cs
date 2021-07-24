@@ -1,11 +1,11 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace did.jwt.vc.net.Models
 {
-    public class IdemRequest
+    public class VerifiableCredential
     {
-        public IdemRequest()
+        public VerifiableCredential()
         {
         }
 
