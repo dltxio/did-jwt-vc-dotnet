@@ -1,13 +1,13 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>did.models.net</PackageId>
-        <Version>0.0.1</Version>
+        <Version>0.0.4</Version>
         <Authors>Idem</Authors>
         <Company>DLTx.io</Company>
-        <PackageVersion>0.0.1</PackageVersion>
+        <PackageVersion>0.0.4</PackageVersion>
         <Title>https://www.idem.com.au/</Title>
-        <AssemblyVersion>0.0.1</AssemblyVersion>
+        <AssemblyVersion>0.0.4</AssemblyVersion>
   </PropertyGroup>
 </Project>

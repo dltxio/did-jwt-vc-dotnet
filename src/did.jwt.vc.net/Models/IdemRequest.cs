@@ -15,7 +15,5 @@ namespace did.jwt.vc.net.Models
         public DateTime IssuanceDate { get; set; }
         public Credential CredentialSubject { get; set; }
         public List<Evidence> Evidences { get; set; }
-        public string Signature { get; set; }
-        public DateTime TimeStamp { get; set; }
     }
 }
