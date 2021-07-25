@@ -6,7 +6,7 @@ namespace did.jwt.vc.net.Models
     public class JwtCredentialPayload
     {
         [Newtonsoft.Json.JsonProperty("vc")]
-        public VC VerifiableCredential { get; set; }
+        public VerifiableCredential VerifiableCredential { get; set; }
 
         [Newtonsoft.Json.JsonProperty("sub")]
         public String Subject { get; set; }

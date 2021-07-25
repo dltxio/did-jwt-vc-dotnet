@@ -5,10 +5,6 @@ namespace did.jwt.vc.net.Models
 {
     public class VerifiableCredential
     {
-        public VerifiableCredential()
-        {
-        }
-
         public Guid Id { get; set; }
         public string Type { get; set; }
         public string Issuer { get; set; }
@@ -16,5 +12,9 @@ namespace did.jwt.vc.net.Models
         public Credential CredentialSubject { get; set; }
         public List<Evidence> Evidences { get; set; }
         public string Signature { get; set; }
+
+        public VerifiableCredential()
+        {
+        }
     }
 }
