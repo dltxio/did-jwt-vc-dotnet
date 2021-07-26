@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 
 namespace did.jwt.vc.net.Models
 {
-    public interface IIsuer
+    public interface IIssuer
     {
         string Identifier { get; }
 
