@@ -4,7 +4,7 @@ using Nethereum.Web3.Accounts;
 
 namespace did.jwt.vc.net.Models
 {
-    public class EthrDID : IIsuer
+    public class EthrDID : IIssuer
     {
         public string Identifier { get; }
 
@@ -20,7 +20,6 @@ namespace did.jwt.vc.net.Models
 
         public async Task CreateVerifiableCredentialJwt()
         {
-
         }
     }
 }

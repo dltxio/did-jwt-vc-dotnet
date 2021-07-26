@@ -8,8 +8,9 @@ namespace did.jwt.vc.net.Models
         {
         }
 
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public string DOB { get; set; }
+
+        public string Key { get; set; }
+        public string Type { get; set; }
+        public string Value { get; set; }
     }
 }
