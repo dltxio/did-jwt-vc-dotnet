@@ -6,9 +6,9 @@
         <Version>0.0.4</Version>
         <Authors>Idem</Authors>
         <Company>DLTx.io</Company>
-        <PackageVersion>0.0.4</PackageVersion>
+        <PackageVersion>0.0.5</PackageVersion>
         <Title>https://www.idem.com.au/</Title>
-        <AssemblyVersion>0.0.4</AssemblyVersion>
+        <AssemblyVersion>0.0.5</AssemblyVersion>
   </PropertyGroup>
 
   <ItemGroup>
