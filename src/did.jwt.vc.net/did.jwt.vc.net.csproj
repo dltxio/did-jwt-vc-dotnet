@@ -10,4 +10,9 @@
         <Title>https://www.idem.com.au/</Title>
         <AssemblyVersion>0.0.4</AssemblyVersion>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Nethereum.Accounts" Version="3.8.0" />
+  </ItemGroup>
+
 </Project>
